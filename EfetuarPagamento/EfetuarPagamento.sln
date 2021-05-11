@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfetuarPagamento", "EfetuarPagamento\EfetuarPagamento.csproj", "{8F40491B-D30F-4EF7-9700-6D7574B639BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F40491B-D30F-4EF7-9700-6D7574B639BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F40491B-D30F-4EF7-9700-6D7574B639BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F40491B-D30F-4EF7-9700-6D7574B639BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F40491B-D30F-4EF7-9700-6D7574B639BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A6EEC97-5300-4CE0-87B7-80662F111333}
+	EndGlobalSection
+EndGlobal
